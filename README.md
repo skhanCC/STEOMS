@@ -1,5 +1,5 @@
 # (Stochastic) Truncated Equations Of Motion - (S)TEOMs
-Mathematica-Python code for an approximate second-order cumulants approach to simulate - most generally - the measurement-condition dynamics of nonlinear bosonic quantum systems under continuous heterodyne monitoring.
+Mathematica-Python code for an approximate second-order cumulants approach to simulate - most generally - the measurement-condition dynamics of nonlinear, arbitrarily-multimode bosonic quantum systems under continuous heterodyne monitoring.
 This code is able to compute both Truncated Equations of Motion that describe unconditional (or ensemble-averaged) dynamics, as well as measurement-condition stochastic evolution.
 
 See Documentation can be found in the overleaf document (until finalized):
