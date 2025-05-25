@@ -15,4 +15,5 @@ This repository includes the following:
 --
 
 If you find this code useful, please consider citing: 
-[1] https://arxiv.org/abs/2409.03748. 
+
+[1] https://arxiv.org/abs/2409.03748
