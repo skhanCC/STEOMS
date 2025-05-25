@@ -9,9 +9,10 @@ This repository includes the following:
 - Documentation '.pdf', describing how each term of a Lindblad master equation is implemented in the Mathematica code, and how the analytically-derived equations can be efficiently translated to Python code for numerical simulations.
 - General Mathematica code for arbitrary master equations, in the Mathematica notebook 'TEOMSCalculatorExample.nb'.
 - Example of how to translated Mathematica-calculated equations to Python code for numerical simulation  is included in the Jupyter notebook 'TEOMSExample.ipynb'.
-- Example Mathematica notebook to compute (S)TEOMs for single-mode quantum system coupled to a single mode quantum nonlinear processor comprising a Kerr oscillator (see https://arxiv.org/abs/2409.03748 for system details).
-- Example Python code to simulate (S)TEOMs computed using Mathematica for single-mode quantum system coupled to a single mode quantum nonlinear processor comprising a Kerr oscillator (see https://arxiv.org/abs/2409.03748 for system details).
+- Example Mathematica notebook to compute (S)TEOMs for single-mode quantum system coupled to a single mode quantum nonlinear processor comprising a Kerr oscillator (see [1] for system details).
+- Example Python code to simulate (S)TEOMs computed using Mathematica for single-mode quantum system coupled to a single mode quantum nonlinear processor comprising a Kerr oscillator (see [1] for system details).
 
 --
 
-If you find this code useful, please consider citing: https://arxiv.org/abs/2409.03748. 
+If you find this code useful, please consider citing: 
+[1] https://arxiv.org/abs/2409.03748. 
