@@ -2,9 +2,6 @@
 Mathematica-Python code for an approximate second-order cumulants approach to simulate - most generally - the measurement-condition dynamics of nonlinear, arbitrarily-multimode bosonic quantum systems under continuous heterodyne monitoring.
 This code is able to compute both Truncated Equations of Motion that describe unconditional (or ensemble-averaged) dynamics, as well as measurement-condition stochastic evolution.
 
-See Documentation can be found in the overleaf document (until finalized):
-https://www.overleaf.com/read/qkkjfwxwcngd
-
 This repository includes the following:
 - Documentation '**STEOMS_Documentation.pdf**', describing how each term of a Lindblad master equation is implemented in the Mathematica code, and how the analytically-derived equations can be efficiently translated to Python code for numerical simulations.
 - General Mathematica code for arbitrary master equations, in the Mathematica notebook '**TEOMSCalculatorExample.nb**'.
