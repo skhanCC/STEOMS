@@ -12,6 +12,7 @@ This repository includes the following:
 --
 
 Version info:
+
 -- Mathematica notebooks have been checked for compatibility with Wolfram Mathematica 14.0.
 
 If you find this code useful, please consider citing: 
