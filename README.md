@@ -8,7 +8,7 @@ This repository includes the following:
 - Example of how to translate Mathematica-calculated equations to Python code for numerical simulation  is included in the Jupyter notebook '**TEOMSExample.ipynb**'.
 - Example Mathematica notebooks '**TEOMSCalculator-1QS-1QNP.nb**' and '**STEOMSCalculator-1QS-1QNP.nb**' to derive TEOMs and STEOMs respectively for a single-mode linear quantum system coupled to a single mode quantum nonlinear processor comprising a Kerr oscillator (see [1] for system details).
 - Example Python code '**STEOMSExample-1QS-1QNP.ipynb**' to simulate TEOMs and STEOMs that are computed using the Mathematica notebooks referenced in the previous item, for a single-mode linear quantum system coupled to a single mode quantum nonlinear processor comprising a Kerr oscillator (see [1] for system details).
-- For future work, an example of a task that uses QNPs for processing of higher-order cumulants is included in the Jupter notebook **processingHigherOrderCumulants.ipynb**.
+- For future work, an example of a task that uses QNPs for processing of higher-order cumulants (although using full master equation simulations) is included in the Jupter notebook **processingHigherOrderCumulants.ipynb**.
 
 --
 
